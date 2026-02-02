@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Abhishek Singh</span></h1>
-<h3 align="center">💡 Full Stack Developer | 🚀 Backend & System Design Enthusiast | 🛠️ Open Source Explorer</h3>
+<h3 align="center">💡 Web Developer | 🚀 Frontend Enthusiast | 🛠️ Open Source Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=89ABE3&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer;Backend+%26+System+Design+Enthusiast;DSA+%7C+LeetCode+Knight;Love+to+Build+Scalable+Systems" alt="Typing SVG" />
