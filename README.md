@@ -19,7 +19,7 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-link
+- 💼 LinkedIn: https://www.linkedin.com/in/abhisheksingh232323/
 - 🌍 Portfolio: https://abhisheksingh.aptifolio.app/
 
 ---
