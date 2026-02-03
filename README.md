@@ -15,12 +15,23 @@
 - 🌱 Currently learning **React, Backend & Modern Web Tech**
 - 🚀 Love building real-world web applications
 - 📫 Reach me at: **singhabhishek8525@gmail.com**
+- 🌍 Portfolio: https://abhisheksingh.aptifolio.app/
 
 ---
-
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/abhisheksingh232323/
-- 🌍 Portfolio: https://abhisheksingh.aptifolio.app/
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhisheksingh232323/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/aabhishek866" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" />
+  </a>
+</p>
+
 
 ---
 
